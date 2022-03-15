@@ -1,2 +1,2 @@
-# Black-Jack-GUI-Version-
+# Black-Jack
 using Python
